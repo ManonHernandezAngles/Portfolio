@@ -26,7 +26,8 @@ The data follow the ROCCC representation:
 - **Cited** – We know how and when the data are collected.
 For this analysis we are going to use SQL for the cleaning and analyzing phase and Tableau for visualization.
 ### Process
-The first step is merging the tables.
+The first step is merging the tables.  
+(SQL Request available here : 
 This table has 5 738 612 rows and 13 columns.  
 ![Table_column](https://github.com/user-attachments/assets/71a93935-db35-4986-bf11-4ee2eed55891)  
 After that we check the null value, we have null value only on the start_name, start_id, end_name, end_id, end_lat, end_lng.  
