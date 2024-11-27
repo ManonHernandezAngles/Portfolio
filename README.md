@@ -7,6 +7,7 @@ This reppository provides an ovrview of my works as Data Analyst. It includes va
 ### Projects Included
 
 #### **1. Cyclistic Project**
+[cyclistic_project](https://github.com/LaRaison18/Portfolio/tree/99fb4b2636a0d70086a804030da351b427c372d3/cyclistic_project)
 - **Objective:** Improve the number of subscriptions with actionable recommendations and marketing insights.
 - **Description:** This project involves analyzing user data to identify trends and patterns that can help Cyclistic enhance their subscription rates. The analysis includes customer segmentation, usage patterns, and targeted marketing strategies.
 - **Key Features:**
@@ -16,6 +17,7 @@ This reppository provides an ovrview of my works as Data Analyst. It includes va
   - Visualization of key insights
 
 #### **2. Google Fiber Customer Service Optimization**
+[google_fiber](https://github.com/LaRaison18/Portfolio/tree/99fb4b2636a0d70086a804030da351b427c372d3/google_fiber)
 - **Objective:** Enhance the customer service by reducing the call volume through increased customer satisfaction and improved operational efficiency.
 - **Description:** This business analysis project focuses on reducing the call volume of Google Fiber's customer support center. The analysis includes identifying common issues, and insights about repeat caller volumes.
 - **Key Features:**
@@ -25,6 +27,7 @@ This reppository provides an ovrview of my works as Data Analyst. It includes va
   - Visualization of call center metrics and KPI
 
 #### **3. Sailfort Motors Employee Attrition Study**
+[Sailfort Motors](https://github.com/LaRaison18/Portfolio/tree/99fb4b2636a0d70086a804030da351b427c372d3/sailfort_motors)
 - **Objective:** Predict employee turnover and identify key factors contributing to attrition.
 - **Description:** This project involves analyzing employee data to develop a predictive model for attrition. The study helps Sailfort Motors understand the main drivers of employee turnover and provides actionable insights to improve employee retention.
 - **Key Features:**
