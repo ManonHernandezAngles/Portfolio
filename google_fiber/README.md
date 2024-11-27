@@ -61,8 +61,8 @@ We begin by combining the three datasets of the three markets into one using Big
 Visualize the entire dashboard with all functionality and filters : https://public.tableau.com/views/GooglefiberDashboard/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link  
 ![Dashboard_part_1](https://github.com/user-attachments/assets/32a13572-d9b8-4b0b-be63-075f4916cb28)  
 #### Executive summary
-Available here : https://github.com/LaRaison18/portfolio/blob/cded235f32334b997581ad38f2dd80e3b578d149/google_fiber/Google-fiber-project-executive-summary.pdf
+[Available here](https://github.com/LaRaison18/portfolio/blob/cded235f32334b997581ad38f2dd80e3b578d149/google_fiber/Google-fiber-project-executive-summary.pdf)
 
 #### Presentation
-Available here : https://github.com/LaRaison18/Portfolio/blob/cded235f32334b997581ad38f2dd80e3b578d149/google_fiber/Google_fiber_presentation.pdf
+[Available here](https://github.com/LaRaison18/Portfolio/blob/cded235f32334b997581ad38f2dd80e3b578d149/google_fiber/Google_fiber_presentation.pdf)
  
