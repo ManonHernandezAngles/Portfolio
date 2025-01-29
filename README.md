@@ -37,6 +37,18 @@ This reppository provides an ovrview of my works as Data Analyst. It includes va
   - Visualization of key findings
   - Recommendations for reducing attrition
 
+#### **4. Quantium Job Simulation - Data Analytics and Commercial Insights**
+[Quantium Job Simulation](https://github.com/ManonHernandezAngles/Portfolio/tree/main/Quantium_Job_Simulation)
+- **Objective:** Understand customer purchasing behavior and assess the impact of a new trial store layout.
+- **Description:** This project involves analyzing retail transaction and purchase behavior data to develop insights into customer segments and their purchasing patterns. The analysis helps Quantium’s retail analytics team to inform strategic planning for the chip category and evaluate the success of a new store layout trial.
+- **Key Features:**
+  - Data exploration and cleaning
+  - Merging datasets for comprehensive analysis
+  - Statistical analysis using t-tests
+  - Identification of key customer segments and purchasing trends
+  - Evaluation of trial store layout impact
+  - Visualization of key findings
+
 ### Structure
 Each project is contained in its own folder with:
 - **README:** Detailed explanation of the project, objectives, and outcomes.
